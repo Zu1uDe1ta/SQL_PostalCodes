@@ -4,6 +4,9 @@
 * Become proficient in using `GROUP BY`, `UPDATE` and aggregate functions to analyze and clean up data. 
 
 
+
+## Instructions
+
 To begin, locate and unpack the SQL file found in the `sql_import` directory and import it into a database on your local MySQL server. 
 
 You will now have a table called **zipcodes** in your database.
