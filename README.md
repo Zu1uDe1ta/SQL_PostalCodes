@@ -15,7 +15,7 @@ You will now have a table called **zipcodes** in your database.
 After this lab, you will be importing data into this database and combining the data imported in subsequent labs with this data.
 
 
-### States, Counties
+## States, Counties
 
 Write a Query that returns all the unique state names. 
 
@@ -44,7 +44,7 @@ Write a Query that returns all of the individual timezones.
 **Notice anything peculiar?**
 
 
-### Fixing Data
+## Fixing Data
 
 Write a Query that returns the zipcode, city, state, and county of all of the `FALSE` or `NULL` timezones. 
 
@@ -99,4 +99,4 @@ Using the rawdata file and Grep, locate the correct values for the remaining zip
 
 
 
-(raw data collected from US Census data found on https://simplemaps.com/data/us-zips)
+*(raw data collected from US Census data found on https://simplemaps.com/data/us-zips)
