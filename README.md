@@ -22,6 +22,8 @@ Write a Query that returns all the unique state names.
 *(Add your query to the file exercise1.sql)*
 
 
+
+
 Write a Query that returns all the Counties by State on separate lines. 
 
 *(Add your query to the file exercise1.sql)*
